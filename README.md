@@ -2,6 +2,9 @@
 
 - 📖 [Remix docs](https://remix.run/docs)
 
+> [!NOTE]
+> This is a basic `create-remix` app that has been bootstrapped with `vitest` and `storybook`
+
 ## Development
 
 Run the dev server:
